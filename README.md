@@ -20,6 +20,7 @@ https://github.com/lllyasviel/ControlNet <br />
 https://github.com/comfyanonymous/ComfyUI <br />
 https://github.com/cubiq/ComfyUI_IPAdapter_plus <br />
 https://github.com/cubiq/ComfyUI_essentials <br />
+https://github.com/cubiq/ComfyUI_InstantID <br />
 https://github.com/Ttl/ComfyUi_NNLatentUpscale <br />
 
 ### 📄 Paper
@@ -31,7 +32,7 @@ https://instantid.github.io/ <br />
 https://ip-adapter.github.io/ <br />
 
 ### 🖼 Output
-
+![image](https://github.com/camenduru/InstantID_IPAdapter_ControlNet-jupyter/assets/54370274/d873a9ea-9e55-40f5-a8b2-eb54707fb748)
 
 ### 🏢 Sponsor
 https://runpod.io
