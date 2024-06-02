@@ -9,6 +9,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantID-IPAdapter-ControlNet-jupyter/blob/main/InstantID_IPAdapter_ControlNet_jupyter.ipynb) | InstantID_IPAdapter_ControlNet_jupyter <br /> The ComfyUI workflow in https://x.com/camenduru/status/1797122259133292576 has been converted to a Jupyter Notebook.
 
 ### 📋 Tutorial
+
+pose_images.zip: 
+https://github.com/camenduru/comfyui-colab/blob/main/workflow/pose_images.zip
+
 ComfyUI = TotoroUI (because ComfyUI is banned on Colab 😋) <br />
 
 ![TotoroUI](https://github.com/camenduru/TotoroUI-jupyter/assets/54370274/ded371dd-6500-4d5f-a700-d60a243d74b5)
