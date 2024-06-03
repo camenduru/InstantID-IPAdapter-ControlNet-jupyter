@@ -23,6 +23,7 @@ https://github.com/cubiq/ComfyUI_IPAdapter_plus <br />
 https://github.com/cubiq/ComfyUI_essentials <br />
 https://github.com/cubiq/ComfyUI_InstantID <br />
 https://github.com/Ttl/ComfyUi_NNLatentUpscale <br />
+https://github.com/ltdrdata/ComfyUI-Impact-Pack <br />
 
 ### 📄 Paper
 https://arxiv.org/abs/2401.07519 <br />
