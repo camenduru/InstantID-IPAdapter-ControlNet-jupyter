@@ -8,6 +8,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantID-IPAdapter-ControlNet-jupyter/blob/main/InstantID_IPAdapter_ControlNet_jupyter.ipynb) | InstantID_IPAdapter_ControlNet_jupyter <br /> The ComfyUI workflow in https://x.com/camenduru/status/1797122259133292576 has been converted to a Jupyter Notebook.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantID-IPAdapter-ControlNet-jupyter/blob/main/InstantID_IPAdapter_ControlNet_FaceDetailer_jupyter.ipynb) | InstantID_IPAdapter_ControlNet_FaceDetailer_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantID-IPAdapter-ControlNet-jupyter/blob/main/FaceDetailer_jupyter.ipynb) | FaceDetailer_jupyter
 
 ### 📋 Tutorial
 
