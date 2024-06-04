@@ -25,6 +25,7 @@ https://github.com/cubiq/ComfyUI_essentials <br />
 https://github.com/cubiq/ComfyUI_InstantID <br />
 https://github.com/Ttl/ComfyUi_NNLatentUpscale <br />
 https://github.com/ltdrdata/ComfyUI-Impact-Pack <br />
+https://github.com/WASasquatch/was-node-suite-comfyui <br />
 
 ### 📄 Paper
 https://arxiv.org/abs/2401.07519 <br />
